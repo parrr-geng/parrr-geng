@@ -1,4 +1,4 @@
-#### Hi, I'm Parrr Wei Geng!
+#### Hello, I'm Parrr Wei Geng
 
 
 <details>
@@ -14,6 +14,7 @@
  <summary>GitHub Stats</summary>
  <br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrr-geng&layout=compact"/>
+ <br />
 </details>
 
 
@@ -31,8 +32,7 @@
  <img align="left" alt="bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <img align="left" alt="tailwindcss" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />
+ <br />
 
 </details>
-
-
 
