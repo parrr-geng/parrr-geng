@@ -1,8 +1,8 @@
 ### Hello, I'm Parrr Wei Geng
 
 #### Check out the recent web applications that I built:
-1. <a href="https://vast-gray-chinchilla-ring.cyclic.app/">T.O.R.P.S </a>: A full-stack eCommerce website using Node.js, Express, MongoDB, Handlebars, and Tailwind.
-2. <a href="https://gleaming-llama-dacb05.netlify.app/">J..</a>: A job application task tracker with agile methodology and kanban layout using React, Express, Node, MongoDB, and Bootstrap.
+1. <a href="https://vast-gray-chinchilla-ring.cyclic.app/" target="_blank">T.O.R.P.S </a>: A full-stack eCommerce website using Node, Express, MongoDB, Handlebars and Tailwind.
+2. <a href="https://gleaming-llama-dacb05.netlify.app/" target="_blank">J..</a>: A job application task tracker with agile methodology and kanban layout using React, Express, Node, MongoDB and Bootstrap.
 
 #### Languages and Tools
 
