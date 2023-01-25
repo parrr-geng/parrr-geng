@@ -1,5 +1,7 @@
 ### Hello, I'm Parrr Wei Geng
 
+A berlin-based fullstack web developer with an agile mindset seeking an entry-level opportunity utilizing the MERN stack (MongoDB, ExpressJS, React, NodeJS). I am currently learning TypeScript and NextJS for personal projects.
+
 #### Check out the recent web applications that I built:
 1. <a href="https://vast-gray-chinchilla-ring.cyclic.app/" target="_blank">T.O.R.P.S </a>: A full-stack eCommerce website using Node, Express, MongoDB, Handlebars and Tailwind.
 2. <a href="https://gleaming-llama-dacb05.netlify.app/" target="_blank">J..</a>: A job application task tracker with agile methodology and kanban layout using React, Express, Node, MongoDB and Bootstrap.
